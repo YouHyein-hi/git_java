@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// 단계별로 풀어보기_for문_8단계:A+B -7
+// 단계별로 풀어보기_for문_7단계:A+B -7
 public class no_11021 {
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
